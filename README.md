@@ -1,7 +1,6 @@
 # OpportunisticCellularNetworkSimulator
 
 **A simulator of an opportunistic scheduling algorithm in a simplified 4G cell, using the Omnet++ framework**
-**Studying throughput and response times**
 
 **University of Pisa, February 2020**
  
