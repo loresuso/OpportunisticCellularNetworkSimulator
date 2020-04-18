@@ -6,6 +6,6 @@
  
  _Computer Engineering - Performance Evaluation of Computer Systems and Networks_
  
-**_Please read requirements.pdf and documentation.pdf_**
+**_Please read documentation.pdf_**
  
  Lorenzo Susini, Federico Cappellini, Alberto Lunghi
